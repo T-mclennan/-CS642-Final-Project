@@ -1,2 +1,2 @@
-# -CS642-Final-Project
+# CS642-Final-Project
 UI/UX design of a Coffee Shop Application 
